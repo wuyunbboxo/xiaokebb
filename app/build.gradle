@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    compileSdk 34
+    compileSdk 33
     namespace 'com.xiaoke.browser'
 
     defaultConfig {
         applicationId "com.xiaoke.browser"
         minSdk 21
-        targetSdk 34
+        targetSdk 33
         versionCode 1
         versionName "1.0"
     }
